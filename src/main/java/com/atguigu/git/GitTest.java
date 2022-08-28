@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("hi master我是山东");
         System.out.println("hi hot-fix-121");
         System.out.println("hi 我是问问");
+        System.out.println("hi push test");
 
     }
 }
